@@ -1,0 +1,76 @@
+
+cuopai8.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cuopai8_00
+  rotate: false
+  xy: 676, 95
+  size: 168, 91
+  orig: 356, 100
+  offset: 115, 3
+  index: -1
+cuopai8_01
+  rotate: false
+  xy: 2, 11
+  size: 200, 91
+  orig: 356, 100
+  offset: 101, 3
+  index: -1
+cuopai8_02
+  rotate: false
+  xy: 204, 4
+  size: 266, 91
+  orig: 356, 100
+  offset: 66, 3
+  index: -1
+cuopai8_03
+  rotate: false
+  xy: 472, 2
+  size: 319, 91
+  orig: 356, 100
+  offset: 30, 3
+  index: -1
+cuopai8_04
+  rotate: false
+  xy: 339, 189
+  size: 335, 89
+  orig: 356, 100
+  offset: 14, 3
+  index: -1
+cuopai8_05
+  rotate: false
+  xy: 2, 196
+  size: 335, 82
+  orig: 356, 100
+  offset: 12, 7
+  index: -1
+cuopai8_06
+  rotate: false
+  xy: 676, 188
+  size: 337, 90
+  orig: 356, 100
+  offset: 10, 4
+  index: -1
+cuopai8_07
+  rotate: false
+  xy: 2, 104
+  size: 292, 90
+  orig: 356, 100
+  offset: 36, 4
+  index: -1
+cuopai8_08
+  rotate: false
+  xy: 296, 97
+  size: 210, 90
+  orig: 356, 100
+  offset: 85, 4
+  index: -1
+cuopai8_09
+  rotate: false
+  xy: 508, 97
+  size: 166, 90
+  orig: 356, 100
+  offset: 111, 4
+  index: -1

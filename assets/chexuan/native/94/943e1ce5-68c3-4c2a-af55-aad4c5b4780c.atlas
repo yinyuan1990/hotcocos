@@ -1,0 +1,118 @@
+
+gift17.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111/1
+  rotate: true
+  xy: 443, 136
+  size: 118, 180
+  orig: 118, 180
+  offset: 0, 0
+  index: -1
+111/2
+  rotate: true
+  xy: 380, 4
+  size: 106, 182
+  orig: 106, 182
+  offset: 0, 0
+  index: -1
+111/3
+  rotate: true
+  xy: 2, 2
+  size: 92, 186
+  orig: 92, 186
+  offset: 0, 0
+  index: -1
+111/4
+  rotate: true
+  xy: 190, 4
+  size: 99, 188
+  orig: 99, 188
+  offset: 0, 0
+  index: -1
+111/5
+  rotate: true
+  xy: 625, 159
+  size: 95, 188
+  orig: 95, 188
+  offset: 0, 0
+  index: -1
+Tex_0003
+  rotate: false
+  xy: 855, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tex_0050
+  rotate: false
+  xy: 913, 140
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+di1
+  rotate: true
+  xy: 2, 96
+  size: 158, 138
+  orig: 158, 138
+  offset: 0, 0
+  index: -1
+gai0
+  rotate: false
+  xy: 815, 170
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+gai1
+  rotate: false
+  xy: 913, 206
+  size: 106, 48
+  orig: 106, 48
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: false
+  xy: 564, 7
+  size: 146, 127
+  orig: 146, 127
+  offset: 0, 0
+  index: -1
+gai3
+  rotate: false
+  xy: 142, 105
+  size: 146, 149
+  orig: 146, 149
+  offset: 0, 0
+  index: -1
+gai4
+  rotate: true
+  xy: 290, 112
+  size: 142, 151
+  orig: 142, 151
+  offset: 0, 0
+  index: -1
+gai5
+  rotate: false
+  xy: 712, 7
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 855, 69
+  size: 26, 99
+  orig: 26, 99
+  offset: 0, 0
+  index: -1
+guangg
+  rotate: true
+  xy: 979, 121
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

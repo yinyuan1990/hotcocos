@@ -1,0 +1,27 @@
+
+gift1.png
+size: 87, 252
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Tomatoes1
+  rotate: false
+  xy: 2, 2
+  size: 65, 64
+  orig: 67, 66
+  offset: 1, 1
+  index: -1
+Tomatoes2
+  rotate: false
+  xy: 2, 68
+  size: 72, 71
+  orig: 74, 73
+  offset: 1, 1
+  index: -1
+Tomatoes3
+  rotate: false
+  xy: 2, 141
+  size: 83, 109
+  orig: 85, 111
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+gift11.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 33
+  size: 82, 147
+  orig: 82, 147
+  offset: 0, 0
+  index: -1
+handleft
+  rotate: false
+  xy: 151, 89
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+handright
+  rotate: true
+  xy: 151, 55
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 33, 3
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

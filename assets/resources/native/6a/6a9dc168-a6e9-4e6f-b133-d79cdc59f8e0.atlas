@@ -1,0 +1,146 @@
+
+fx_tubiao.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fx_lizi_00
+  rotate: false
+  xy: 443, 141
+  size: 104, 109
+  orig: 180, 175
+  offset: 67, 25
+  index: -1
+fx_lizi_01
+  rotate: false
+  xy: 336, 11
+  size: 157, 104
+  orig: 180, 175
+  offset: 11, 29
+  index: -1
+fx_lizi_02
+  rotate: false
+  xy: 2, 9
+  size: 170, 98
+  orig: 180, 175
+  offset: 4, 29
+  index: -1
+fx_lizi_03
+  rotate: false
+  xy: 174, 5
+  size: 160, 104
+  orig: 180, 175
+  offset: 13, 27
+  index: -1
+fx_lizi_04
+  rotate: false
+  xy: 159, 383
+  size: 161, 122
+  orig: 180, 175
+  offset: 8, 11
+  index: -1
+fx_lizi_05
+  rotate: false
+  xy: 2, 376
+  size: 155, 129
+  orig: 180, 175
+  offset: 15, 6
+  index: -1
+fx_lizi_06
+  rotate: false
+  xy: 2, 247
+  size: 156, 127
+  orig: 180, 175
+  offset: 14, 4
+  index: -1
+fx_lizi_07
+  rotate: false
+  xy: 297, 117
+  size: 144, 129
+  orig: 180, 175
+  offset: 20, 5
+  index: -1
+fx_lizi_08
+  rotate: false
+  xy: 149, 111
+  size: 146, 134
+  orig: 180, 175
+  offset: 17, 5
+  index: -1
+fx_lizi_09
+  rotate: false
+  xy: 450, 285
+  size: 143, 136
+  orig: 180, 175
+  offset: 22, 8
+  index: -1
+fx_lizi_10
+  rotate: false
+  xy: 495, 2
+  size: 143, 137
+  orig: 180, 175
+  offset: 24, 11
+  index: -1
+fx_lizi_11
+  rotate: false
+  xy: 160, 248
+  size: 145, 133
+  orig: 180, 175
+  offset: 27, 11
+  index: -1
+fx_lizi_12
+  rotate: false
+  xy: 2, 109
+  size: 145, 136
+  orig: 180, 175
+  offset: 24, 12
+  index: -1
+fx_lizi_13
+  rotate: false
+  xy: 549, 143
+  size: 135, 140
+  orig: 180, 175
+  offset: 30, 13
+  index: -1
+fx_lizi_14
+  rotate: false
+  xy: 307, 252
+  size: 141, 129
+  orig: 180, 175
+  offset: 29, 23
+  index: -1
+fx_tb_di
+  rotate: false
+  xy: 322, 432
+  size: 88, 73
+  orig: 90, 83
+  offset: 1, 1
+  index: -1
+fx_tb_p1
+  rotate: false
+  xy: 553, 436
+  size: 57, 69
+  orig: 59, 71
+  offset: 1, 1
+  index: -1
+fx_tb_p2
+  rotate: false
+  xy: 492, 433
+  size: 59, 72
+  orig: 61, 74
+  offset: 1, 1
+  index: -1
+fx_tb_xx1
+  rotate: false
+  xy: 412, 423
+  size: 78, 82
+  orig: 115, 108
+  offset: 17, 14
+  index: -1
+fx_tb_xx2
+  rotate: false
+  xy: 322, 400
+  size: 30, 30
+  orig: 39, 39
+  offset: 4, 4
+  index: -1

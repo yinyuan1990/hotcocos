@@ -1,0 +1,69 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/manifest_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/manifest_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "assets/manifest/chexuan_project.json": {
+      "size": 95978,
+      "md5": "59a69ca5a4dc3b2c3dd473f9d01bc754"
+    },
+    "assets/manifest/chexuan_version.json": {
+      "size": 69,
+      "md5": "f17100f671ec5c2bbd53fc8a6b3f2c16"
+    },
+    "assets/manifest/hall_project.json": {
+      "size": 53696,
+      "md5": "b017fccc8e171f0bdc33d59f97a8fe7c"
+    },
+    "assets/manifest/hall_version.json": {
+      "size": 69,
+      "md5": "217e3ac0c4fef0cb4f3c80f1d6411b9c"
+    },
+    "assets/manifest/internal_project.json": {
+      "size": 630,
+      "md5": "a55c4dc349afadc15fcd0d94d806a50d"
+    },
+    "assets/manifest/internal_version.json": {
+      "size": 69,
+      "md5": "429725c9d6fa70fbfd4d084b267bb698"
+    },
+    "assets/manifest/jsb-adapter_project.json": {
+      "size": 515,
+      "md5": "c18991385cc182a4770b6e70fd6a799e"
+    },
+    "assets/manifest/jsb-adapter_version.json": {
+      "size": 69,
+      "md5": "2531b6d9454e2d3f1d39e891d69fc3a9"
+    },
+    "assets/manifest/main.js_project.json": {
+      "size": 276,
+      "md5": "949c1a9b30c8aefbd46ec9f221d32df0"
+    },
+    "assets/manifest/main.js_version.json": {
+      "size": 69,
+      "md5": "56eb1e1ff888bee0fb199ace5b4c7e58"
+    },
+    "assets/manifest/main_project.json": {
+      "size": 1439,
+      "md5": "1a936c3c50b20d72c6606707a0da6241"
+    },
+    "assets/manifest/main_version.json": {
+      "size": 69,
+      "md5": "95076833df7f7939405d54680f271961"
+    },
+    "assets/manifest/manifest_version.json": {
+      "size": 69,
+      "md5": "a9717bf92981cf417090d42825ef20de"
+    },
+    "assets/manifest/src_project.json": {
+      "size": 1131,
+      "md5": "7aab67bf667bb0fa190d93fe026d7edc"
+    },
+    "assets/manifest/src_version.json": {
+      "size": 69,
+      "md5": "e2e54672a9e38c21d4ed268fc14485a8"
+    }
+  },
+  "searchPaths": []
+}

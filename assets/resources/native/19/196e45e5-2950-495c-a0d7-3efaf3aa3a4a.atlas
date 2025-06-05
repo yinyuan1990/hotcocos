@@ -1,0 +1,132 @@
+
+fx_anniu.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fx_anniu
+  rotate: false
+  xy: 2, 362
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+fx_anniu_lg_00
+  rotate: false
+  xy: 122, 122
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_01
+  rotate: false
+  xy: 123, 242
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_02
+  rotate: false
+  xy: 130, 370
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_03
+  rotate: false
+  xy: 122, 2
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_04
+  rotate: false
+  xy: 241, 122
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_05
+  rotate: false
+  xy: 242, 250
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_06
+  rotate: false
+  xy: 2, 242
+  size: 119, 118
+  orig: 127, 127
+  offset: 4, 4
+  index: -1
+fx_anniu_lg_07
+  rotate: false
+  xy: 2, 122
+  size: 118, 118
+  orig: 127, 127
+  offset: 4, 4
+  index: -1
+fx_anniu_lg_08
+  rotate: false
+  xy: 2, 2
+  size: 118, 118
+  orig: 127, 127
+  offset: 4, 4
+  index: -1
+fx_anniu_lg_09
+  rotate: false
+  xy: 249, 370
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_10
+  rotate: false
+  xy: 241, 2
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_11
+  rotate: false
+  xy: 360, 130
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_12
+  rotate: false
+  xy: 361, 250
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_13
+  rotate: false
+  xy: 368, 370
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_14
+  rotate: false
+  xy: 360, 10
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_anniu_lg_15
+  rotate: false
+  xy: 479, 130
+  size: 117, 118
+  orig: 127, 127
+  offset: 5, 4
+  index: -1
+fx_tb_xx2
+  rotate: false
+  xy: 480, 338
+  size: 30, 30
+  orig: 39, 39
+  offset: 4, 4
+  index: -1

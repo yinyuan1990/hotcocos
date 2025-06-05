@@ -1,0 +1,55 @@
+
+fx_tx_glow.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Glow_022_tex
+  rotate: false
+  xy: 260, 43
+  size: 248, 209
+  orig: 256, 256
+  offset: 8, 25
+  index: -1
+Glow_086
+  rotate: false
+  xy: 640, 16
+  size: 116, 116
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+Glow_092_tex
+  rotate: false
+  xy: 510, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ring_040_tex
+  rotate: false
+  xy: 758, 17
+  size: 115, 115
+  orig: 128, 128
+  offset: 7, 6
+  index: -1
+Ring_109_tex
+  rotate: false
+  xy: 510, 2
+  size: 128, 120
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+Ring_glow
+  rotate: false
+  xy: 640, 134
+  size: 119, 118
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+fx_lami_glow
+  rotate: false
+  xy: 2, 15
+  size: 256, 237
+  orig: 256, 237
+  offset: 0, 0
+  index: -1

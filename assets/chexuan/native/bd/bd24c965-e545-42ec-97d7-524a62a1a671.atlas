@@ -1,0 +1,76 @@
+
+cuopai5.png
+size: 904, 280
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cuopai5_00
+  rotate: false
+  xy: 565, 2
+  size: 168, 91
+  orig: 356, 100
+  offset: 115, 3
+  index: -1
+cuopai5_01
+  rotate: false
+  xy: 664, 95
+  size: 200, 91
+  orig: 356, 100
+  offset: 101, 3
+  index: -1
+cuopai5_02
+  rotate: false
+  xy: 296, 3
+  size: 267, 91
+  orig: 356, 100
+  offset: 66, 3
+  index: -1
+cuopai5_03
+  rotate: false
+  xy: 342, 96
+  size: 320, 91
+  orig: 356, 100
+  offset: 30, 3
+  index: -1
+cuopai5_04
+  rotate: false
+  xy: 342, 189
+  size: 336, 89
+  orig: 356, 100
+  offset: 14, 3
+  index: -1
+cuopai5_05
+  rotate: false
+  xy: 2, 103
+  size: 336, 83
+  orig: 356, 100
+  offset: 12, 6
+  index: -1
+cuopai5_06
+  rotate: false
+  xy: 2, 188
+  size: 338, 90
+  orig: 356, 100
+  offset: 10, 4
+  index: -1
+cuopai5_07
+  rotate: false
+  xy: 2, 11
+  size: 292, 90
+  orig: 356, 100
+  offset: 36, 4
+  index: -1
+cuopai5_08
+  rotate: false
+  xy: 680, 188
+  size: 210, 90
+  orig: 356, 100
+  offset: 85, 4
+  index: -1
+cuopai5_09
+  rotate: false
+  xy: 735, 3
+  size: 167, 90
+  orig: 356, 100
+  offset: 110, 4
+  index: -1

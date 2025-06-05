@@ -1,0 +1,21 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/internal_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/internal_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "assets/internal/cc.config.json": {
+      "size": 2679,
+      "md5": "b808c13e523a80273fa521eebce6a762"
+    },
+    "assets/internal/import/09/0993db64b.json": {
+      "size": 972439,
+      "md5": "50a1532e083102c3ee897dc83401ad43"
+    },
+    "assets/internal/index.js": {
+      "size": 615,
+      "md5": "5feef216a4e7772d5a63228a5a2c78ef"
+    }
+  },
+  "searchPaths": []
+}

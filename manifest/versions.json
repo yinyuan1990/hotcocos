@@ -1,0 +1,42 @@
+{
+  "src": {
+    "md5": "b4b81a0e4afb6e9777020c33a1d40727",
+    "version": "1.0.0"
+  },
+  "jsb-adapter": {
+    "md5": "188597982a9b2d669c221c13e9aea688",
+    "version": "1.0.0"
+  },
+  "main.js": {
+    "md5": "eb75f8b792855313ecb81bfa43fd1881",
+    "version": "1.0.0"
+  },
+  "chexuan": {
+    "md5": "8d3bfaf4a7623254ecec2f58e9cd55b4",
+    "version": "1.0.0"
+  },
+  "hall": {
+    "md5": "ae6752d5d571a3b9a86a792e0ad0acd8",
+    "version": "1.0.0"
+  },
+  "internal": {
+    "md5": "5f1481954c8d25499ea0f6e4a4e4b89c",
+    "version": "1.0.0"
+  },
+  "main": {
+    "md5": "2b0fc717cc4abc85c04d43ec6beff873",
+    "version": "1.0.0"
+  },
+  "manifest": {
+    "md5": "14339f754d975abcc684f12fd38fb380",
+    "version": "1.0.0"
+  },
+  "resources": {
+    "md5": "32b0a68265e09adb51d5816af2ea4f9d",
+    "version": "1.0.0"
+  },
+  "room": {
+    "md5": "ee6f5a66d246e2a0d0757ce08bc69f4f",
+    "version": "1.0.0"
+  }
+}

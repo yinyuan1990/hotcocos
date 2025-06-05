@@ -1,0 +1,337 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/room_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/room_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "assets/room/cc.config.json": {
+      "size": 14118,
+      "md5": "a032f2ba0302d4d429e194a463225785"
+    },
+    "assets/room/import/01/01b35f00b.json": {
+      "size": 40617,
+      "md5": "e73f613d0e1a4bfd5ca3063056f21f26"
+    },
+    "assets/room/import/04/042ea7ec2.json": {
+      "size": 2656,
+      "md5": "38d0f9c0e4f07dc1da95f17cfa2f6708"
+    },
+    "assets/room/import/06/06055c960.json": {
+      "size": 8163,
+      "md5": "a55090551e100ce156e5be163c957ac4"
+    },
+    "assets/room/import/06/06b5e24fe.json": {
+      "size": 39376,
+      "md5": "87203eff65f7cac2565eef7833ab6e26"
+    },
+    "assets/room/import/07/07ec5eb40.json": {
+      "size": 65212,
+      "md5": "38c7697d5318b92393ec9c46b2ff297b"
+    },
+    "assets/room/import/08/088523302.json": {
+      "size": 33580,
+      "md5": "727311f8d0067e71b69f23afce5d26a6"
+    },
+    "assets/room/import/0d/0d5340107.json": {
+      "size": 4426,
+      "md5": "737814d54abf989c377f64074d92b91a"
+    },
+    "assets/room/import/0e/0e7be5d6c.json": {
+      "size": 20023,
+      "md5": "ba0cc61e41d7cdd2c90f4b297c9bf598"
+    },
+    "assets/room/import/38/3802a483-5b2f-4cb7-9ef2-68b6b144eb1b.json": {
+      "size": 8161,
+      "md5": "7390d2dd0c60d6077ed67a1012f5525b"
+    },
+    "assets/room/import/44/44bca97c-0206-4e75-b7ed-935b9825a5cc@f9941.json": {
+      "size": 683,
+      "md5": "64b4f714a6d13b27c0d96a86e49dc3ee"
+    },
+    "assets/room/import/76/76e53b97-914b-4f95-90b8-0d537453d965@f9941.json": {
+      "size": 626,
+      "md5": "9fd0b5e079f89470d084bf26d5140259"
+    },
+    "assets/room/import/89/89284e26-fd50-405c-95f7-c1bf953be567@f9941.json": {
+      "size": 555,
+      "md5": "17f3b8f55f235344492eabee42dc55be"
+    },
+    "assets/room/import/90/90280e38-cd1e-43cd-b6ee-1f875cfe86b1@f9941.json": {
+      "size": 684,
+      "md5": "7b38dce55d605760852a0d59e59f613c"
+    },
+    "assets/room/import/97/97fd6606-6349-4747-90b9-77a5dc56f106@f9941.json": {
+      "size": 680,
+      "md5": "1e343c2a56c18de2743617074b526715"
+    },
+    "assets/room/import/9d/9d8202db-b6bb-486c-8456-52431f48c23d@f9941.json": {
+      "size": 712,
+      "md5": "ab34708e06766a49d3da08ebf891adf7"
+    },
+    "assets/room/import/cf/cf646f78-bade-440d-b133-375356b032c9@f9941.json": {
+      "size": 573,
+      "md5": "0e2343a384d41c739956f259de85267a"
+    },
+    "assets/room/import/d5/d5271042-9658-405b-903f-fc05363edc08@f9941.json": {
+      "size": 666,
+      "md5": "95e4e0a91a8c385b06aca170219b4a5f"
+    },
+    "assets/room/import/e4/e4959f7c-0607-4516-826a-53ee46f648e3@f9941.json": {
+      "size": 565,
+      "md5": "e0e37defae554e5403f5f41f425e3fea"
+    },
+    "assets/room/import/f3/f3bf4a50-a6c5-42dc-aa5c-c90a78657256@f9941.json": {
+      "size": 544,
+      "md5": "a6b5e28e79968636d78ecf3b54c2236e"
+    },
+    "assets/room/index.js": {
+      "size": 91597,
+      "md5": "0e4bf9b887b5a22f540345877cf90076"
+    },
+    "assets/room/native/00/00e75f17-bc12-40b7-be67-5fcbec32837d.png": {
+      "size": 2795,
+      "md5": "5787b4f036f7836f29135e89314d06f1"
+    },
+    "assets/room/native/01/01a5f412-1aa0-4dc1-99b2-a64439e853a6.png": {
+      "size": 15090,
+      "md5": "97b7755c9a92316e5397b2961da87ffe"
+    },
+    "assets/room/native/04/043fc1dc-519e-4692-96eb-9105b1b726a1.png": {
+      "size": 1995,
+      "md5": "f96793e0799fc799cdafcc83a7e622f2"
+    },
+    "assets/room/native/07/07c49838-fbae-445b-beb3-feaca67cc125.png": {
+      "size": 406,
+      "md5": "b241a06a047eddf33f68d34deee420cb"
+    },
+    "assets/room/native/08/081c4558-3d84-4f90-b27e-be2d5446c884.png": {
+      "size": 100,
+      "md5": "a9df4f9bcb4017c24fa57870871186de"
+    },
+    "assets/room/native/0e/0eff96dc-7d72-486a-86f6-81676cd505da.png": {
+      "size": 2282,
+      "md5": "4772848dafb0e497aecac0b2b7afe3dc"
+    },
+    "assets/room/native/14/1480c057-e290-4e17-8c50-8353a9f879ca.png": {
+      "size": 7523,
+      "md5": "95247a73d492e3cc32d29f019db64d94"
+    },
+    "assets/room/native/1e/1e9ac708-aac4-4040-8711-3b35cb2540c3.png": {
+      "size": 1785,
+      "md5": "c572348f7c342bea132e2547364bb421"
+    },
+    "assets/room/native/22/228dc8e3-6f0f-42f0-b7e6-3145cd69dcfa.png": {
+      "size": 2358,
+      "md5": "3e6125556090ac2003b91b7b86e85baf"
+    },
+    "assets/room/native/31/31de907a-afd0-45cf-984b-eb50daff0229.png": {
+      "size": 1065,
+      "md5": "d746b5d38cf4725e0baf2aa8beed1cd6"
+    },
+    "assets/room/native/40/40b0510c-458b-4920-bf46-0fe7f7cf6846.png": {
+      "size": 3676,
+      "md5": "4dffba25d724ad8831ce0fab5ea23714"
+    },
+    "assets/room/native/44/44bca97c-0206-4e75-b7ed-935b9825a5cc.png": {
+      "size": 800,
+      "md5": "6048c4190c6f1d333aca1a0a8545cfa8"
+    },
+    "assets/room/native/48/4898fcad-6041-404c-b2c4-2e4c52a0b0af.png": {
+      "size": 1314,
+      "md5": "1d9f3e10dc736c68fd17fd066a5691e9"
+    },
+    "assets/room/native/4f/4fe3b228-5e7c-4f35-9a39-61b829f0302c.png": {
+      "size": 37062,
+      "md5": "d59ab03384107762391867353a28d337"
+    },
+    "assets/room/native/50/50a33e69-f2e9-4b3e-b9d8-49928556d98e.png": {
+      "size": 2539,
+      "md5": "06738d7387f163f72eb1e7ca51e9d55c"
+    },
+    "assets/room/native/53/53e13a27-528d-48fd-a979-b50bb15b79ff.png": {
+      "size": 1806,
+      "md5": "3f029ea18f29740e8f0af54ce9dca61c"
+    },
+    "assets/room/native/59/59cc1f0a-e1b4-48ad-b3f9-b2c0aff3610a.png": {
+      "size": 6108,
+      "md5": "33c7b409bdbc5bf99d978948b58fda4f"
+    },
+    "assets/room/native/5b/5b44363a-f32a-4db8-a9ec-9f6987bb520c.png": {
+      "size": 133,
+      "md5": "ca7d4894fda9e64d99c69b9725cffef9"
+    },
+    "assets/room/native/61/61d92d00-ca95-49f3-8527-b6156e1c2cf6.png": {
+      "size": 24275,
+      "md5": "6860fc4faa5029ab8d622b9502021103"
+    },
+    "assets/room/native/67/67c1f6ad-7908-4525-b1d9-24688dd631d9.png": {
+      "size": 2368,
+      "md5": "2471f580ead2457bc79f99956a804651"
+    },
+    "assets/room/native/6d/6d4abaf5-5b57-453a-b7dc-c0bccec11308.png": {
+      "size": 13608,
+      "md5": "71c9ef46f75516127b2180e7db9d67cb"
+    },
+    "assets/room/native/70/7009eed6-8e5c-4929-bc6c-dc798bcd50f4.png": {
+      "size": 1959,
+      "md5": "fbf2b9f68cba3d1151543c656ac8340b"
+    },
+    "assets/room/native/71/71fd95e1-bc01-4bd8-946e-55b5f15469ea.png": {
+      "size": 5377,
+      "md5": "07ebca2ebba93a35632975de66692b80"
+    },
+    "assets/room/native/76/76e53b97-914b-4f95-90b8-0d537453d965.png": {
+      "size": 1995,
+      "md5": "f96793e0799fc799cdafcc83a7e622f2"
+    },
+    "assets/room/native/89/89284e26-fd50-405c-95f7-c1bf953be567.png": {
+      "size": 12463,
+      "md5": "0ac3e7784af965943822618c28e5e251"
+    },
+    "assets/room/native/8a/8a77a169-fe6c-4ddf-a1b1-7ded2b7b97da.png": {
+      "size": 7811,
+      "md5": "330466c5732b7fb52745c812ea43cdf7"
+    },
+    "assets/room/native/8f/8f41beda-9012-462d-b62b-485e72707822.png": {
+      "size": 6531,
+      "md5": "2de7228931832f1f299c5ffb169cadc0"
+    },
+    "assets/room/native/8f/8f790ada-7d6c-435c-a6bf-3c27d0a9d31f.png": {
+      "size": 8325,
+      "md5": "e69d0a8d567cedf4bc81af2296d9b51c"
+    },
+    "assets/room/native/90/90280e38-cd1e-43cd-b6ee-1f875cfe86b1.png": {
+      "size": 1264,
+      "md5": "19a79ced4e489b4f8c57328fc1187b10"
+    },
+    "assets/room/native/94/94401e5d-142e-4fd0-afa8-e095e1d6ba83.png": {
+      "size": 3951,
+      "md5": "484b083135cb463192e52f9e3c1327cf"
+    },
+    "assets/room/native/97/97fd6606-6349-4747-90b9-77a5dc56f106.png": {
+      "size": 1730,
+      "md5": "99e181524638e34560ba024966bbce30"
+    },
+    "assets/room/native/9b/9bd5698a-e24d-4b29-b94d-bb42b0cd3a46.png": {
+      "size": 13831,
+      "md5": "cdc9a4d531a105a9eb065321201a797d"
+    },
+    "assets/room/native/9c/9ce93269-0ff7-44a6-8d48-4e53226ca387.png": {
+      "size": 4489,
+      "md5": "ca9434a09d5e3cf5ad7fe8aac1e69486"
+    },
+    "assets/room/native/9d/9d8202db-b6bb-486c-8456-52431f48c23d.png": {
+      "size": 2368,
+      "md5": "2471f580ead2457bc79f99956a804651"
+    },
+    "assets/room/native/a1/a1aece1b-01af-4fb4-b734-740ead47e229.png": {
+      "size": 1678,
+      "md5": "f529874b7f5c7cf57b30e964b7c2baed"
+    },
+    "assets/room/native/ae/ae139f5d-9319-46cd-923e-f582ed6d9001.png": {
+      "size": 9584,
+      "md5": "b91efb9431b3f740d70b6565f49e540d"
+    },
+    "assets/room/native/be/be2eef1d-8235-476c-8ef5-28151c3d63b9.png": {
+      "size": 189,
+      "md5": "d2154faa0ea1e5c5e6915bbf6d166fd1"
+    },
+    "assets/room/native/c3/c3757310-f09d-4dcf-8edf-6bb18972e02f.png": {
+      "size": 79005,
+      "md5": "1e7fac23f23c2bf98069a4fa34fda69e"
+    },
+    "assets/room/native/c7/c70f161c-2ff4-4c70-a31d-e518e5b0e65e.png": {
+      "size": 99797,
+      "md5": "e69344ff3abd61ebdd83c8d7c0cbee59"
+    },
+    "assets/room/native/c7/c784446f-da53-438e-adee-f48739b93fba.png": {
+      "size": 6632,
+      "md5": "991ce00fb66bb9c56ea45ccd899f6e7e"
+    },
+    "assets/room/native/c8/c83683e9-8b49-4720-b098-6cb9f4aa36f0.png": {
+      "size": 8124,
+      "md5": "d6d3ecdae62e0e9d17c40473c20fe405"
+    },
+    "assets/room/native/ca/cabc887b-17ad-45b3-93f4-9f353805f4f0.png": {
+      "size": 39922,
+      "md5": "a3e5a1ffddd2abfc1c4d4ffcb63b7f27"
+    },
+    "assets/room/native/cc/cc8b6dab-10c0-4877-a11f-c4465e444d88.png": {
+      "size": 760,
+      "md5": "bf8f2cb0370adc4484813c4fd3d0426d"
+    },
+    "assets/room/native/ce/ce3be116-3689-474a-a9c4-ed4741e82edb.png": {
+      "size": 15139,
+      "md5": "e5162a08320108e2a932eecc9c6a0707"
+    },
+    "assets/room/native/ce/ce5c0456-95b5-4dcb-8538-dc59c9c52cb0.png": {
+      "size": 1561,
+      "md5": "e8b3e5c731a82764f5edc841feb1730a"
+    },
+    "assets/room/native/cf/cf646f78-bade-440d-b133-375356b032c9.png": {
+      "size": 6632,
+      "md5": "991ce00fb66bb9c56ea45ccd899f6e7e"
+    },
+    "assets/room/native/d2/d2279c43-96ca-4b2a-8963-5e3376b8a29e.png": {
+      "size": 2340,
+      "md5": "ae5855c30803a1834399b2c02d4ec5ed"
+    },
+    "assets/room/native/d5/d5271042-9658-405b-903f-fc05363edc08.png": {
+      "size": 1785,
+      "md5": "c572348f7c342bea132e2547364bb421"
+    },
+    "assets/room/native/d6/d68510df-9b23-41f6-8474-dff0090a5367.png": {
+      "size": 1242,
+      "md5": "37a56843ec9f546185425cd1423fa440"
+    },
+    "assets/room/native/d8/d80a5148-e9a2-4665-b8cd-e6ae3d1fbc92.png": {
+      "size": 1915,
+      "md5": "3957aa4cb78b5598bd617155d515bec0"
+    },
+    "assets/room/native/db/db4c7e4a-ffcc-4f4b-8dfe-ed56d32f3695.png": {
+      "size": 6341,
+      "md5": "9dfc5290fcf65eab775ed12e797df5a3"
+    },
+    "assets/room/native/db/dbd9dd0c-b49c-4a4e-9731-2440d6fccd25.png": {
+      "size": 2046,
+      "md5": "2e3f6fed0ed9c9de24482ee6f247cd5d"
+    },
+    "assets/room/native/e1/e1cd7e28-a361-41e0-993e-9c7588d66013.png": {
+      "size": 2964,
+      "md5": "bcd7b53a2fb541962c773bf6bd2e2ba4"
+    },
+    "assets/room/native/e4/e4959f7c-0607-4516-826a-53ee46f648e3.png": {
+      "size": 747051,
+      "md5": "bda20193f2cb0527f05a7ce7a9c47f0d"
+    },
+    "assets/room/native/e6/e6490ea8-36bd-4ef5-8042-cfcbf8324d6d.png": {
+      "size": 12463,
+      "md5": "0ac3e7784af965943822618c28e5e251"
+    },
+    "assets/room/native/f0/f006f21d-e75c-4df9-a7c7-7910770cc032.png": {
+      "size": 1785,
+      "md5": "c572348f7c342bea132e2547364bb421"
+    },
+    "assets/room/native/f2/f299eb92-1bb8-4546-bd5f-410162c52bfe.png": {
+      "size": 796,
+      "md5": "142ff1ec58291c53f478e2ae14540ebf"
+    },
+    "assets/room/native/f3/f3bf4a50-a6c5-42dc-aa5c-c90a78657256.png": {
+      "size": 3410,
+      "md5": "c64cf597df7241dfa3728bc73338a985"
+    },
+    "assets/room/native/f8/f8f47366-a242-4dd0-8133-35b48232c57c.png": {
+      "size": 1003,
+      "md5": "05ac98a01c9e7b7e40dafc9165457833"
+    },
+    "assets/room/native/fc/fcb9d5cc-09fd-41be-bebd-2af0397264f3.png": {
+      "size": 4255,
+      "md5": "8695f55063bb62a8a5f59b12766fd3b5"
+    },
+    "assets/room/native/fd/fd136bd1-3d5e-4605-937e-1c532b0a579b.png": {
+      "size": 1728,
+      "md5": "6d6865b060daf9d2b5e78eeef4e88d0d"
+    }
+  },
+  "searchPaths": []
+}

@@ -1,0 +1,405 @@
+
+fx_banner2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Glow_050_tex
+  rotate: false
+  xy: 2, 344
+  size: 171, 172
+  orig: 210, 212
+  offset: 19, 20
+  index: -1
+fx_banner2_bsc
+  rotate: false
+  xy: 401, 513
+  size: 295, 101
+  orig: 298, 104
+  offset: 1, 1
+  index: -1
+fx_banner2_cma
+  rotate: false
+  xy: 2, 518
+  size: 397, 342
+  orig: 399, 344
+  offset: 1, 1
+  index: -1
+fx_banner2_di
+  rotate: false
+  xy: 656, 90
+  size: 296, 46
+  orig: 332, 48
+  offset: 18, 1
+  index: -1
+fx_banner2_jinbi
+  rotate: false
+  xy: 401, 716
+  size: 508, 144
+  orig: 510, 146
+  offset: 1, 1
+  index: -1
+fx_banner2_jinbi2
+  rotate: false
+  xy: 322, 460
+  size: 62, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+fx_banner2_jinbi3
+  rotate: false
+  xy: 910, 552
+  size: 65, 78
+  orig: 67, 82
+  offset: 1, 2
+  index: -1
+fx_banner2_jinbi4
+  rotate: false
+  xy: 911, 743
+  size: 105, 117
+  orig: 108, 121
+  offset: 2, 1
+  index: -1
+fx_banner2_zi
+  rotate: false
+  xy: 305, 53
+  size: 273, 36
+  orig: 275, 38
+  offset: 1, 1
+  index: -1
+fx_banner_glow1
+  rotate: false
+  xy: 401, 616
+  size: 350, 98
+  orig: 353, 100
+  offset: 1, 1
+  index: -1
+fx_banner_sg_00
+  rotate: false
+  xy: 716, 506
+  size: 15, 6
+  orig: 275, 38
+  offset: 6, 31
+  index: -1
+fx_banner_sg_01
+  rotate: false
+  xy: 322, 440
+  size: 37, 18
+  orig: 275, 38
+  offset: 4, 19
+  index: -1
+fx_banner_sg_02
+  rotate: false
+  xy: 574, 135
+  size: 80, 30
+  orig: 275, 38
+  offset: 2, 7
+  index: -1
+fx_banner_sg_03
+  rotate: false
+  xy: 463, 129
+  size: 109, 36
+  orig: 275, 38
+  offset: 1, 1
+  index: -1
+fx_banner_sg_04
+  rotate: false
+  xy: 686, 238
+  size: 138, 36
+  orig: 275, 38
+  offset: 1, 1
+  index: -1
+fx_banner_sg_05
+  rotate: false
+  xy: 826, 214
+  size: 163, 36
+  orig: 275, 38
+  offset: 1, 1
+  index: -1
+fx_banner_sg_06
+  rotate: false
+  xy: 463, 167
+  size: 204, 36
+  orig: 275, 38
+  offset: 1, 1
+  index: -1
+fx_banner_sg_07
+  rotate: false
+  xy: 755, 176
+  size: 227, 36
+  orig: 275, 38
+  offset: 8, 1
+  index: -1
+fx_banner_sg_08
+  rotate: false
+  xy: 751, 138
+  size: 227, 36
+  orig: 275, 38
+  offset: 39, 1
+  index: -1
+fx_banner_sg_09
+  rotate: false
+  xy: 463, 205
+  size: 205, 36
+  orig: 275, 38
+  offset: 69, 1
+  index: -1
+fx_banner_sg_10
+  rotate: false
+  xy: 831, 252
+  size: 174, 36
+  orig: 275, 38
+  offset: 100, 1
+  index: -1
+fx_banner_sg_11
+  rotate: false
+  xy: 686, 276
+  size: 143, 36
+  orig: 275, 38
+  offset: 131, 1
+  index: -1
+fx_banner_sg_12
+  rotate: false
+  xy: 463, 91
+  size: 102, 36
+  orig: 275, 38
+  offset: 172, 1
+  index: -1
+fx_banner_sg_13
+  rotate: false
+  xy: 669, 153
+  size: 80, 32
+  orig: 275, 38
+  offset: 193, 1
+  index: -1
+fx_banner_sg_14
+  rotate: false
+  xy: 698, 545
+  size: 49, 19
+  orig: 275, 38
+  offset: 222, 1
+  index: -1
+fx_banner_sg_15
+  rotate: false
+  xy: 698, 507
+  size: 16, 7
+  orig: 275, 38
+  offset: 253, 1
+  index: -1
+fx_lizi_00
+  rotate: false
+  xy: 911, 632
+  size: 104, 109
+  orig: 180, 175
+  offset: 67, 25
+  index: -1
+fx_lizi_01
+  rotate: false
+  xy: 831, 290
+  size: 157, 104
+  orig: 180, 175
+  offset: 11, 29
+  index: -1
+fx_lizi_02
+  rotate: false
+  xy: 133, 36
+  size: 170, 98
+  orig: 180, 175
+  offset: 4, 29
+  index: -1
+fx_lizi_03
+  rotate: false
+  xy: 149, 136
+  size: 160, 104
+  orig: 180, 175
+  offset: 13, 27
+  index: -1
+fx_lizi_04
+  rotate: false
+  xy: 386, 389
+  size: 161, 122
+  orig: 180, 175
+  offset: 8, 11
+  index: -1
+fx_lizi_05
+  rotate: false
+  xy: 753, 585
+  size: 155, 129
+  orig: 180, 175
+  offset: 15, 6
+  index: -1
+fx_lizi_06
+  rotate: false
+  xy: 750, 456
+  size: 156, 127
+  orig: 180, 175
+  offset: 14, 4
+  index: -1
+fx_lizi_07
+  rotate: false
+  xy: 540, 243
+  size: 144, 129
+  orig: 180, 175
+  offset: 20, 5
+  index: -1
+fx_lizi_08
+  rotate: false
+  xy: 322, 253
+  size: 146, 134
+  orig: 180, 175
+  offset: 17, 5
+  index: -1
+fx_lizi_09
+  rotate: false
+  xy: 175, 242
+  size: 143, 136
+  orig: 180, 175
+  offset: 22, 8
+  index: -1
+fx_lizi_10
+  rotate: false
+  xy: 549, 374
+  size: 143, 137
+  orig: 180, 175
+  offset: 24, 11
+  index: -1
+fx_lizi_11
+  rotate: false
+  xy: 2, 209
+  size: 145, 133
+  orig: 180, 175
+  offset: 27, 11
+  index: -1
+fx_lizi_12
+  rotate: false
+  xy: 175, 380
+  size: 145, 136
+  orig: 180, 175
+  offset: 24, 12
+  index: -1
+fx_lizi_13
+  rotate: false
+  xy: 694, 314
+  size: 135, 140
+  orig: 180, 175
+  offset: 30, 13
+  index: -1
+fx_lizi_14
+  rotate: false
+  xy: 320, 122
+  size: 141, 129
+  orig: 180, 175
+  offset: 29, 23
+  index: -1
+fx_zi2_sg_00
+  rotate: false
+  xy: 732, 514
+  size: 12, 10
+  orig: 151, 52
+  offset: 9, 40
+  index: -1
+fx_zi2_sg_01
+  rotate: false
+  xy: 698, 516
+  size: 32, 27
+  orig: 151, 52
+  offset: 6, 23
+  index: -1
+fx_zi2_sg_02
+  rotate: false
+  xy: 977, 587
+  size: 45, 43
+  orig: 151, 52
+  offset: 3, 7
+  index: -1
+fx_zi2_sg_03
+  rotate: false
+  xy: 831, 406
+  size: 65, 48
+  orig: 151, 52
+  offset: 3, 2
+  index: -1
+fx_zi2_sg_04
+  rotate: false
+  xy: 670, 187
+  size: 83, 49
+  orig: 151, 52
+  offset: 2, 2
+  index: -1
+fx_zi2_sg_05
+  rotate: false
+  xy: 2, 53
+  size: 97, 50
+  orig: 151, 52
+  offset: 2, 1
+  index: -1
+fx_zi2_sg_06
+  rotate: false
+  xy: 908, 500
+  size: 114, 50
+  orig: 151, 52
+  offset: 3, 1
+  index: -1
+fx_zi2_sg_07
+  rotate: false
+  xy: 2, 105
+  size: 129, 50
+  orig: 151, 52
+  offset: 3, 1
+  index: -1
+fx_zi2_sg_08
+  rotate: false
+  xy: 2, 157
+  size: 130, 50
+  orig: 151, 52
+  offset: 18, 1
+  index: -1
+fx_zi2_sg_09
+  rotate: false
+  xy: 898, 396
+  size: 115, 50
+  orig: 151, 52
+  offset: 33, 1
+  index: -1
+fx_zi2_sg_10
+  rotate: false
+  xy: 908, 448
+  size: 98, 50
+  orig: 151, 52
+  offset: 51, 1
+  index: -1
+fx_zi2_sg_11
+  rotate: false
+  xy: 2, 2
+  size: 84, 49
+  orig: 151, 52
+  offset: 65, 1
+  index: -1
+fx_zi2_sg_12
+  rotate: false
+  xy: 470, 338
+  size: 68, 49
+  orig: 151, 52
+  offset: 81, 1
+  index: -1
+fx_zi2_sg_13
+  rotate: false
+  xy: 698, 566
+  size: 50, 48
+  orig: 151, 52
+  offset: 98, 1
+  index: -1
+fx_zi2_sg_14
+  rotate: false
+  xy: 977, 552
+  size: 33, 33
+  orig: 151, 52
+  offset: 113, 1
+  index: -1
+fx_zi2_sg_15
+  rotate: false
+  xy: 732, 526
+  size: 16, 17
+  orig: 151, 52
+  offset: 128, 1
+  index: -1

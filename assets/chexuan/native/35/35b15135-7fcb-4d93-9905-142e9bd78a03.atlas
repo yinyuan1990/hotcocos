@@ -1,0 +1,97 @@
+
+xipai8.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+xipai8_001
+  rotate: false
+  xy: 532, 2
+  size: 265, 156
+  orig: 270, 180
+  offset: 3, 10
+  index: -1
+xipai8_002
+  rotate: false
+  xy: 266, 160
+  size: 265, 155
+  orig: 270, 180
+  offset: 3, 10
+  index: -1
+xipai8_003
+  rotate: false
+  xy: 533, 160
+  size: 265, 155
+  orig: 270, 180
+  offset: 3, 10
+  index: -1
+xipai8_004
+  rotate: false
+  xy: 2, 3
+  size: 263, 155
+  orig: 270, 180
+  offset: 4, 10
+  index: -1
+xipai8_005
+  rotate: false
+  xy: 267, 3
+  size: 263, 155
+  orig: 270, 180
+  offset: 4, 10
+  index: -1
+xipai8_006
+  rotate: false
+  xy: 263, 317
+  size: 263, 154
+  orig: 270, 180
+  offset: 4, 10
+  index: -1
+xipai8_007
+  rotate: false
+  xy: 528, 317
+  size: 262, 154
+  orig: 270, 180
+  offset: 4, 10
+  index: -1
+xipai8_008
+  rotate: false
+  xy: 2, 161
+  size: 262, 154
+  orig: 270, 180
+  offset: 4, 10
+  index: -1
+xipai8_009
+  rotate: false
+  xy: 2, 343
+  size: 259, 128
+  orig: 270, 180
+  offset: 6, 10
+  index: -1
+xipai8_010
+  rotate: false
+  xy: 2, 473
+  size: 259, 93
+  orig: 270, 180
+  offset: 6, 10
+  index: -1
+xipai8_011
+  rotate: false
+  xy: 263, 473
+  size: 231, 93
+  orig: 270, 180
+  offset: 22, 10
+  index: -1
+xipai8_012
+  rotate: false
+  xy: 496, 473
+  size: 205, 93
+  orig: 270, 180
+  offset: 33, 10
+  index: -1
+xipai8_013
+  rotate: false
+  xy: 703, 473
+  size: 174, 93
+  orig: 270, 180
+  offset: 49, 10
+  index: -1

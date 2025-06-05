@@ -1,0 +1,55 @@
+
+gift10.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beer
+  rotate: false
+  xy: 2, 43
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+bubbles
+  rotate: false
+  xy: 170, 59
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+bubbles2
+  rotate: false
+  xy: 89, 50
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bubbles3
+  rotate: false
+  xy: 237, 109
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+bubbles4
+  rotate: false
+  xy: 31, 27
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bubblesqipao
+  rotate: false
+  xy: 89, 70
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 2, 2
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1

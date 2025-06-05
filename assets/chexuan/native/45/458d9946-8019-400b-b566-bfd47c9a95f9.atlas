@@ -1,0 +1,111 @@
+
+gift19.png
+size: 915, 273
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jinbi1
+  rotate: false
+  xy: 873, 172
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 305, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+jinbi5
+  rotate: false
+  xy: 265, 2
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+jinbi6
+  rotate: false
+  xy: 361, 3
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+jinbi7
+  rotate: false
+  xy: 340, 3
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+jinbidui
+  rotate: false
+  xy: 2, 18
+  size: 179, 66
+  orig: 179, 66
+  offset: 0, 0
+  index: -1
+maoshenli
+  rotate: false
+  xy: 656, 4
+  size: 204, 126
+  orig: 204, 126
+  offset: 0, 0
+  index: -1
+maoshenwai
+  rotate: false
+  xy: 182, 95
+  size: 206, 176
+  orig: 206, 176
+  offset: 0, 0
+  index: -1
+maoshenzhong
+  rotate: false
+  xy: 565, 132
+  size: 212, 139
+  orig: 212, 139
+  offset: 0, 0
+  index: -1
+maotou
+  rotate: false
+  xy: 390, 126
+  size: 173, 145
+  orig: 173, 145
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 2, 86
+  size: 178, 185
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+shanzi1
+  rotate: false
+  xy: 541, 4
+  size: 113, 120
+  orig: 115, 120
+  offset: 1, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 779, 157
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+zuodian
+  rotate: false
+  xy: 265, 44
+  size: 274, 49
+  orig: 274, 49
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 183, 3
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1

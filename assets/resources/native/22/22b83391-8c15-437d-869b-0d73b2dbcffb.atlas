@@ -1,0 +1,153 @@
+
+fx_anniu.png
+size: 424,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_anniu_sg_00
+  rotate: true
+  xy: 139, 65
+  size: 7, 11
+  orig: 91, 91
+  offset: 13, 56
+  index: -1
+fx_anniu_sg_01
+  rotate: true
+  xy: 139, 74
+  size: 18, 29
+  orig: 91, 91
+  offset: 13, 45
+  index: -1
+fx_anniu_sg_02
+  rotate: true
+  xy: 170, 65
+  size: 28, 46
+  orig: 91, 91
+  offset: 13, 33
+  index: -1
+fx_anniu_sg_03
+  rotate: false
+  xy: 381, 51
+  size: 36, 56
+  orig: 91, 91
+  offset: 13, 26
+  index: -1
+fx_anniu_sg_04
+  rotate: false
+  xy: 381, 109
+  size: 41, 59
+  orig: 91, 91
+  offset: 13, 23
+  index: -1
+fx_anniu_sg_05
+  rotate: false
+  xy: 333, 40
+  size: 46, 62
+  orig: 91, 91
+  offset: 13, 20
+  index: -1
+fx_anniu_sg_06
+  rotate: false
+  xy: 280, 34
+  size: 51, 65
+  orig: 91, 91
+  offset: 13, 17
+  index: -1
+fx_anniu_sg_07
+  rotate: false
+  xy: 222, 6
+  size: 56, 68
+  orig: 91, 91
+  offset: 13, 14
+  index: -1
+fx_anniu_sg_08
+  rotate: true
+  xy: 77, 2
+  size: 61, 71
+  orig: 91, 91
+  offset: 13, 11
+  index: -1
+fx_anniu_sg_09
+  rotate: false
+  xy: 169, 95
+  size: 65, 73
+  orig: 91, 91
+  offset: 13, 9
+  index: -1
+fx_anniu_sg_10
+  rotate: false
+  xy: 102, 94
+  size: 65, 74
+  orig: 91, 91
+  offset: 13, 8
+  index: -1
+fx_anniu_sg_11
+  rotate: true
+  xy: 2, 2
+  size: 61, 73
+  orig: 91, 91
+  offset: 17, 8
+  index: -1
+fx_anniu_sg_12
+  rotate: true
+  xy: 150, 7
+  size: 56, 70
+  orig: 91, 91
+  offset: 22, 8
+  index: -1
+fx_anniu_sg_13
+  rotate: false
+  xy: 236, 101
+  size: 52, 67
+  orig: 91, 91
+  offset: 27, 8
+  index: -1
+fx_anniu_sg_14
+  rotate: false
+  xy: 290, 104
+  size: 46, 64
+  orig: 91, 91
+  offset: 32, 8
+  index: -1
+fx_anniu_sg_15
+  rotate: false
+  xy: 338, 107
+  size: 41, 61
+  orig: 91, 91
+  offset: 37, 8
+  index: -1
+fx_anniu_sg_16
+  rotate: true
+  xy: 334, 2
+  size: 36, 58
+  orig: 91, 91
+  offset: 42, 8
+  index: -1
+fx_anniu_sg_17
+  rotate: true
+  xy: 280, 2
+  size: 30, 52
+  orig: 91, 91
+  offset: 48, 10
+  index: -1
+fx_anniu_sg_18
+  rotate: true
+  xy: 102, 73
+  size: 19, 35
+  orig: 91, 91
+  offset: 59, 16
+  index: -1
+fx_anniu_sg_19
+  rotate: false
+  xy: 218, 76
+  size: 9, 17
+  orig: 91, 91
+  offset: 69, 22
+  index: -1
+fx_guangquan
+  rotate: true
+  xy: 2, 65
+  size: 103, 98
+  orig: 128, 128
+  offset: 12, 15
+  index: -1

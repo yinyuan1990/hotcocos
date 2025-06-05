@@ -1,0 +1,153 @@
+
+ht_loading.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ht_loading_00
+  rotate: false
+  xy: 511, 337
+  size: 142, 160
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+ht_loading_01
+  rotate: false
+  xy: 484, 9
+  size: 129, 161
+  orig: 160, 180
+  offset: 12, 7
+  index: -1
+ht_loading_02
+  rotate: false
+  xy: 102, 171
+  size: 104, 162
+  orig: 160, 180
+  offset: 23, 6
+  index: -1
+ht_loading_03
+  rotate: false
+  xy: 2, 333
+  size: 69, 164
+  orig: 160, 180
+  offset: 41, 5
+  index: -1
+ht_loading_04
+  rotate: false
+  xy: 66, 168
+  size: 34, 163
+  orig: 160, 180
+  offset: 61, 5
+  index: -1
+ht_loading_05
+  rotate: false
+  xy: 2, 167
+  size: 62, 164
+  orig: 160, 180
+  offset: 51, 5
+  index: -1
+ht_loading_06
+  rotate: false
+  xy: 208, 171
+  size: 96, 162
+  orig: 160, 180
+  offset: 35, 6
+  index: -1
+ht_loading_07
+  rotate: false
+  xy: 2, 2
+  size: 120, 163
+  orig: 160, 180
+  offset: 23, 6
+  index: -1
+ht_loading_08
+  rotate: false
+  xy: 347, 172
+  size: 136, 161
+  orig: 160, 180
+  offset: 14, 7
+  index: -1
+ht_loading_09
+  rotate: false
+  xy: 340, 8
+  size: 142, 161
+  orig: 160, 180
+  offset: 9, 7
+  index: -1
+ht_loading_10
+  rotate: false
+  xy: 374, 336
+  size: 135, 161
+  orig: 160, 180
+  offset: 10, 7
+  index: -1
+ht_loading_11
+  rotate: false
+  xy: 73, 335
+  size: 121, 162
+  orig: 160, 180
+  offset: 16, 7
+  index: -1
+ht_loading_12
+  rotate: false
+  xy: 196, 335
+  size: 100, 162
+  orig: 160, 180
+  offset: 27, 6
+  index: -1
+ht_loading_13
+  rotate: false
+  xy: 298, 335
+  size: 74, 162
+  orig: 160, 180
+  offset: 40, 6
+  index: -1
+ht_loading_14
+  rotate: false
+  xy: 296, 7
+  size: 42, 162
+  orig: 160, 180
+  offset: 58, 6
+  index: -1
+ht_loading_15
+  rotate: false
+  xy: 306, 171
+  size: 39, 162
+  orig: 160, 180
+  offset: 64, 6
+  index: -1
+ht_loading_16
+  rotate: false
+  xy: 224, 7
+  size: 70, 162
+  orig: 160, 180
+  offset: 50, 6
+  index: -1
+ht_loading_17
+  rotate: false
+  xy: 124, 7
+  size: 98, 162
+  orig: 160, 180
+  offset: 36, 6
+  index: -1
+ht_loading_18
+  rotate: false
+  xy: 485, 173
+  size: 119, 161
+  orig: 160, 180
+  offset: 25, 7
+  index: -1
+ht_loading_19
+  rotate: false
+  xy: 655, 337
+  size: 136, 160
+  orig: 160, 180
+  offset: 15, 8
+  index: -1
+ht_loading_20
+  rotate: false
+  xy: 606, 175
+  size: 142, 160
+  orig: 160, 180
+  offset: 9, 8
+  index: -1

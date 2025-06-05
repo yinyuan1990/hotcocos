@@ -1,0 +1,45 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/main_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/main_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "assets/main/cc.config.json": {
+      "size": 1124,
+      "md5": "543086846142a985693048512304a544"
+    },
+    "assets/main/import/07/07fb04230.json": {
+      "size": 119,
+      "md5": "ba0512bd342fe0cfab532119ec446568"
+    },
+    "assets/main/import/09/09bd36b8e.json": {
+      "size": 178,
+      "md5": "d8f071546013041afbfe14188a2ad7b3"
+    },
+    "assets/main/import/0b/0bc8722e0.json": {
+      "size": 22794,
+      "md5": "c7022a62c55fdf6250cf82735150be34"
+    },
+    "assets/main/import/ba/ba21476f-2866-4f81-9c4d-6e359316e448.json": {
+      "size": 192,
+      "md5": "8bce784945efd554512e8520ec9caccb"
+    },
+    "assets/main/import/fd/fd8ec536-a354-4a17-9c74-4f3883c378c8.json": {
+      "size": 480,
+      "md5": "731f44a39ce9377ee6de8ba34edaf039"
+    },
+    "assets/main/index.js": {
+      "size": 480288,
+      "md5": "75b548b85c350df33ea5974a902fa102"
+    },
+    "assets/main/native/15/158e7e52-3220-4cd7-9694-713e0e6e8278.png": {
+      "size": 1422,
+      "md5": "7661ea4222634cfda42c2cee9224dc32"
+    },
+    "assets/main/native/b7/b730527c-3233-41c2-aaf7-7cdab58f9749.png": {
+      "size": 158,
+      "md5": "cdbc996e9ab38bf90c517c528459810e"
+    }
+  },
+  "searchPaths": []
+}

@@ -1,0 +1,17 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/jsb-adapter_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/jsb-adapter_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "jsb-adapter/engine-adapter.js": {
+      "size": 137997,
+      "md5": "36b9ce1f5addfd3a84946c83b30f33c3"
+    },
+    "jsb-adapter/web-adapter.js": {
+      "size": 170133,
+      "md5": "ebbd46f3cdced38337c6f24be822e0c7"
+    }
+  },
+  "searchPaths": []
+}

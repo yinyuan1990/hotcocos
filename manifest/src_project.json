@@ -1,0 +1,41 @@
+{
+  "packageUrl": "https://hotcocos.vercel.app/",
+  "remoteManifestUrl": "https://hotcocos.vercel.app/manifest/src_project.json",
+  "remoteVersionUrl": "https://hotcocos.vercel.app/manifest/src_version.json",
+  "version": "1.0.0",
+  "assets": {
+    "src/application.js": {
+      "size": 1254,
+      "md5": "e86fdac237d3fe20a6aa86cc74ce45d9"
+    },
+    "src/assets/scripts/plugin/CryptoJS.js": {
+      "size": 73620,
+      "md5": "9454640c03c8abb087ec304f5fc0181e"
+    },
+    "src/chunks/bundle.js": {
+      "size": 4202,
+      "md5": "807ec32f6b3ebb6e7e8964ec4c5be10b"
+    },
+    "src/cocos-js/cc.js": {
+      "size": 1952825,
+      "md5": "b074d09cc0e7317cfda8101cb70879c5"
+    },
+    "src/import-map.json": {
+      "size": 37,
+      "md5": "fc840d99cbb3732367a93c054d1200d4"
+    },
+    "src/quick/plugin/Extentions.js": {
+      "size": 2085,
+      "md5": "17af21c67bab26c5f0c90f32de66b58e"
+    },
+    "src/settings.json": {
+      "size": 2684,
+      "md5": "67cedf26b5dbd4a821abc83bd15c99f5"
+    },
+    "src/system.bundle.js": {
+      "size": 7829,
+      "md5": "794a0deb87693911c60aa2ab291c4ae3"
+    }
+  },
+  "searchPaths": []
+}
